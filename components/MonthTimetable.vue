@@ -17,10 +17,10 @@
             <div v-for="event in getCellData(row, col).events" class="vue-timetable-event">
               <slot :event="event">
                 <span class="vue-timetable-event-color" :style="{ backgroundColor: event.color }"></span>
-                <a class="vue-timetable-event-link" href="#">
+                <span class="vue-timetable-event-link">
                   <span class="vue-timetable-event-time">{{ event.date.from | moment('HH:mm') }} - {{ event.date.to | moment('HH:mm') }}</span><br />
                   <span class="vue-timetable-event-name">{{ event.text }}</span>
-                </a>
+                </span>
               </slot>
             </div>
           </div>

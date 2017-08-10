@@ -11,14 +11,14 @@
       <ul>
         <li v-for="event in day.events">
           <span class="vue-timetable-event-color" :style="{ backgroundColor: event.color }"></span>
-          <a class="vue-timetable-event-link" href="#">
+          <span class="vue-timetable-event-link">
             <strong class="vue-timetable-event-time">{{ event.date.from | moment('HH:mm') }}</strong>
             <span class="vue-timetable-event-name">
               <slot :event="event">
                 {{ event.text }}
               </slot>
             </span>
-          </a>
+          </span>
         </li>
       </ul>
     </div>

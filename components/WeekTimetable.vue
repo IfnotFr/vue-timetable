@@ -16,11 +16,11 @@
               </div>
             </slot>
             <div class="vue-timetable-column-content">
-              <a class="vue-timetable-event" v-for="event in day.events" :style="{ top: event.placement.top + 'px', height: event.placement.height + 'px', backgroundColor: event.color }">
+              <span class="vue-timetable-event" v-for="event in day.events" :style="{ top: event.placement.top + 'px', height: event.placement.height + 'px', backgroundColor: event.color }">
                 <slot :event="event">
                   <span>{{ event.text }}</span>
                 </slot>
-              </a>
+              </span>
             </div>
             <div class="vue-timetable-column-grid">
               <div :style="{ height: (height - 1) + 'px'}" class="vue-timetable-grid-item"
