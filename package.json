@@ -1,25 +1,23 @@
 {
   "name": "vue-timetable",
-  "version": "1.0.0",
   "description": "A vuejs timetable implementation.",
+  "version": "1.0.1",
+  "author": "Favre Anael <anael.favre@gmail.com>",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ifnot/vue-timetable.git"
-  },
   "keywords": [
     "vue",
     "vuejs",
     "calendar",
     "timetable"
   ],
-  "author": "Anael Favre (anael.favre@gmail.com)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ifnot/vue-timetable/issues"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ifnot/vue-timetable.git"
   },
+  "dependencies": {
+    "moment": "^2",
+    "vue-moment": "^2"
+  },
+  "license": "ISC",
   "homepage": "https://github.com/Ifnot/vue-timetable#readme"
 }
