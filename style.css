@@ -169,9 +169,6 @@
   text-decoration: none;
   outline: none;
 }
-.vue-timetable.vue-timetable-list-mode ul li .vue-timetable-event-link * {
-  font-size: 15px;
-}
 .vue-timetable.vue-timetable-list-mode ul li .vue-timetable-event-time {
   margin-right: 7px;
 }
