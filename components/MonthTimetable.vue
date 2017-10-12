@@ -85,6 +85,10 @@
       events () {
         // Fill the days events if the events data changes
         this.fillDaysList()
+      },
+      month () {
+        this.date.month = moment(this.month)
+        this.fillDaysList()
       }
     },
     created () {

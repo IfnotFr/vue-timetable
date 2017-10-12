@@ -43,6 +43,14 @@
     watch: {
       events () {
         this.fillDaysList()
+      },
+      from () {
+        this.date.from = moment(this.from)
+        this.fillDaysList()
+      },
+      to () {
+        this.date.to = moment(this.to)
+        this.fillDaysList()
       }
     },
     methods: {
