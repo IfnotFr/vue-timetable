@@ -77,6 +77,8 @@
 
         return this.events.filter((event) => {
           return day.isSame(event.date.from, 'day')
+        }).sort((a, b) => {
+          return moment(b.date.from).isBefore(a.date.from)
         })
       }
     },

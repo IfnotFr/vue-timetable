@@ -88,6 +88,8 @@
           return event
         }).filter((event) => {
           return day.isSame(event.date.from, 'day') && event.placement.top >= 0
+        }).sort((a, b) => {
+          return moment(b.date.from).isBefore(a.date.from)
         })
       }
     },

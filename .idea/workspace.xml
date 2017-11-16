@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc0dd646-9178-43d9-94aa-3ff78cbf2fd9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="WeekTimetable.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/WeekTimetable.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="87" column="22" lean-forward="true" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getEve</find>
+      <find>getDays</find>
+      <find>getDay</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/components/ListTimetable.vue" />
+        <option value="$PROJECT_DIR$/components/MonthTimetable.vue" />
+        <option value="$PROJECT_DIR$/components/WeekTimetable.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="25" />
+    <option name="width" value="1910" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue-timetable" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-timetable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-timetable" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-timetable" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc0dd646-9178-43d9-94aa-3ff78cbf2fd9" name="Default" comment="" />
+      <created>1510828364109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510828364109</updated>
+      <workItem from="1510828365792" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/components/ListTimetable.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2081">
+          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+          <folding>
+            <marker date="1510828394052" expanded="true" signature="9:941" ph="..." />
+            <marker date="1510828394052" expanded="true" signature="63:929" ph="..." />
+            <marker date="1510828394052" expanded="true" signature="163:920" ph="..." />
+            <marker date="1510828394052" expanded="true" signature="201:398" ph="..." />
+            <marker date="1510828394052" expanded="true" signature="218:384" ph="..." />
+            <marker date="1510828394052" expanded="true" signature="409:909" ph="..." />
+            <marker date="1510828394052" expanded="true" signature="450:897" ph="..." />
+            <marker date="1510828394052" expanded="true" signature="600:883" ph="..." />
+            <marker date="1510828394052" expanded="true" signature="754:865" ph="..." />
+            <marker date="1510828394052" expanded="true" signature="790:845" ph="..." />
+            <marker date="1510828394052" expanded="true" signature="951:2359" ph="..." />
+            <marker date="1510828394052" expanded="true" signature="1001:2350" ph="{&quot;name&quot;: 'list-timetable'...}" />
+            <marker date="1510828394052" expanded="true" signature="1091:1292" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="1106:1286" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="1122:1278" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="1305:1552" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="1323:1360" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="1376:1456" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="1470:1546" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="1567:2296" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="1591:1976" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="1734:1894" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="1766:1854" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="1922:1968" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="2003:2290" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="2053:2084" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="2131:2194" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="2211:2281" ph="{...}" />
+            <marker date="1510828394052" expanded="true" signature="2313:2346" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/MonthTimetable.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="78" column="23" lean-forward="true" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+          <folding>
+            <marker date="1510828405868" expanded="true" signature="9:1308" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="111:1296" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="123:332" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="134:319" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="181:307" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="219:291" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="344:1285" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="372:1272" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="402:1260" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="545:1246" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="735:1229" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="771:1210" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="933:1188" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="1318:3162" ph="..." />
+            <marker date="1510828405868" expanded="true" signature="1368:3153" ph="{&quot;name&quot;: 'month-timetable'...}" />
+            <marker date="1510828405868" expanded="true" signature="1443:1785" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="1529:1779" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="1545:1771" ph="{&quot;firstDayOfWeek&quot;: firstDayOfWeek...}" />
+            <marker date="1510828405868" expanded="true" signature="1800:2811" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="1818:1851" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="1882:2101" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="2125:2491" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="2323:2483" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="2355:2443" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="2518:2805" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="2568:2599" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="2646:2709" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="2726:2796" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="2824:3043" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="2842:2938" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="2955:3037" ph="{...}" />
+            <marker date="1510828405868" expanded="true" signature="3060:3149" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/WeekTimetable.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="87" column="22" lean-forward="true" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
