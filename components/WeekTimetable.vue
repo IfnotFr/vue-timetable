@@ -2,7 +2,7 @@
   <div>
     <div class="vue-timetable vue-timetable-week-mode" data-view="week" id="timetable-3">
       <div class="vue-timetable-hours">
-        <div class="vue-timetable-hour" v-for="i in (date.hours.end - (date.hours.start -1))">
+        <div class="vue-timetable-hour" v-for="i in (date.hours.end - (date.hours.start -1))" :style="{ height: height + 'px' }">
           <span>{{ i + (date.hours.start - 1) }}:00</span>
         </div>
       </div>
