@@ -84,7 +84,7 @@
 .vue-timetable.vue-timetable-week-mode .vue-timetable-content .vue-timetable-columns .vue-timetable-column .vue-timetable-column-content .vue-timetable-event:hover {
   opacity: 0.8;
 }
-.vue-timetable.vue-timetable-week-mode .vue-timetable-content .vue-timetable-columns .vue-timetable-column .vue-timetable-column-content .vue-timetable-event span {
+.vue-timetable.vue-timetable-week-mode .vue-timetable-content .vue-timetable-columns .vue-timetable-column .vue-timetable-column-content .vue-timetable-event > span {
   display: table;
   color: inherit;
   position: absolute;
@@ -283,7 +283,7 @@
   .vue-timetable.vue-timetable-week-mode .vue-timetable-hours {
     width: 50px;
   }
-  .vue-timetable.vue-timetable-week-mode .vue-timetable-content .vue-timetable-columns .vue-timetable-column .vue-timetable-column-content .vue-timetable-event span {
+  .vue-timetable.vue-timetable-week-mode .vue-timetable-content .vue-timetable-columns .vue-timetable-column .vue-timetable-column-content .vue-timetable-event > span {
     padding: 0;
     font-size: 14px;
   }
@@ -310,7 +310,7 @@
   }
 
   /********** Vue timetable : week-mode **********/
-  .vue-timetable.vue-timetable-week-mode .vue-timetable-content .vue-timetable-columns .vue-timetable-column .vue-timetable-column-content .vue-timetable-event span {
+  .vue-timetable.vue-timetable-week-mode .vue-timetable-content .vue-timetable-columns .vue-timetable-column .vue-timetable-column-content .vue-timetable-event > span {
     padding: 0;
     font-size: 13px;
   }
