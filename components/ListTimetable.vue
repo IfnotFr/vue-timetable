@@ -55,31 +55,49 @@
     },
     methods: {
       fillDaysList () {
-        this.date.list = []
+        let list = []
+        let events = this.getEventsPerDay()
 
         let now = this.date.from.clone()
         while (now.isBefore(this.date.to) || now.isSame(this.date.to)) {
-          this.date.list.push({
+          let key = now.format('YYYY-MM-DD')
+          list.push({
             date: now.format(),
-            events: this.getDayEvents(now)
+            events: events[key] !== undefined ? events[key] : []
           })
           now.add(1, 'days')
         }
 
         if (this.reverse) {
-          this.date.list.reverse()
+          list.reverse()
         }
+
+        this.date.list = list
       },
-      getDayEvents (day) {
+      getEventsPerDay (day) {
         if (typeof this.events === 'undefined') {
           return []
         }
 
-        return this.events.filter((event) => {
-          return day.isSame(event.date.from, 'day')
-        }).sort((a, b) => {
-          return moment(b.date.from).isBefore(a.date.from)
-        })
+        let events = {};
+
+        // Push all events into days
+        for(let i = 0; i < this.events.length; i++) {
+          let event = this.events[i]
+          let key = event.date.from.format('YYYY-MM-DD')
+
+          if(events[key] === undefined) events[key] = []
+          events[key].push(event)
+        }
+
+        // Ordering all days
+        for(let i = 0; i < events.length; i++) {
+          events[i] = events[i].sort((a, b) => {
+            return moment(b.date.from).isBefore(a.date.from)
+          })
+        }
+
+        return events
       }
     },
     created () {
